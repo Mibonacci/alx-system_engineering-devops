@@ -1,2 +1,2 @@
 0-current_working_directory
-1-listit 
+1-listit \n 
